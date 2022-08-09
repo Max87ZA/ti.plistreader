@@ -1,0 +1,87 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "72789673d79dae0c3bbc7d197b0151319bb0ba58784ae4696a825e7d107bf9ef"
+    }
+  ],
+  "containerPath" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/test.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "install",
+    "activeArchitecture" : "arm64e",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : true,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos15.4",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "armv4t",
+        "armv5",
+        "armv6",
+        "armv7",
+        "armv7f",
+        "armv7s",
+        "armv7k",
+        "arm64",
+        "arm64e"
+      ],
+      "targetArchitecture" : "arm64e"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Products",
+      "derivedDataPath" : "/Users/mariankucharcik/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/mariankucharcik/Library/Developer/Xcode/DerivedData/test-bliomvypdfkkcdchgsgseeqrhwqa/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/mariankucharcik/Library/Developer/Xcode/DerivedData/test-bliomvypdfkkcdchgsgseeqrhwqa/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Release",
+    "overrides" : {
+      "commandLine" : {
+        "table" : {
+          "BUILD_LIBRARY_FOR_DISTRIBUTION" : "YES",
+          "ONLY_ACTIVE_ARCH" : "NO",
+          "SDKROOT" : "iphoneos15.4",
+          "SKIP_INSTALL" : "NO"
+        }
+      },
+      "synthesized" : {
+        "table" : {
+          "ACTION" : "install",
+          "ASSET_PACK_FOLDER_PATH" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/InstallationBuildProductsLocation/OnDemandResources",
+          "BITCODE_GENERATION_MODE" : "bitcode",
+          "DEPLOYMENT_LOCATION" : "YES",
+          "DEPLOYMENT_POSTPROCESSING" : "YES",
+          "DSTROOT" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/InstallationBuildProductsLocation",
+          "EMBED_ASSET_PACKS_IN_PRODUCT_BUNDLE" : "NO",
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ENABLE_DATA_STORE" : "NO",
+          "MESSAGES_APPLICATION_EXTENSION_SUPPORT_FOLDER_PATH" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/BuildProductsPath/MessagesApplicationExtensionSupport",
+          "MESSAGES_APPLICATION_SUPPORT_FOLDER_PATH" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/BuildProductsPath/MessagesApplicationSupport",
+          "OBJROOT" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/IntermediateBuildFilesPath",
+          "SHARED_PRECOMPS_DIR" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/PrecompiledHeaders",
+          "SWIFT_STDLIB_TOOL_UNSIGNED_DESTINATION_DIR" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/BuildProductsPath/SwiftSupport",
+          "SYMROOT" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/BuildProductsPath",
+          "WATCHKIT_2_SUPPORT_FOLDER_PATH" : "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/BuildProductsPath/WatchKitSupport2"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "archive",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

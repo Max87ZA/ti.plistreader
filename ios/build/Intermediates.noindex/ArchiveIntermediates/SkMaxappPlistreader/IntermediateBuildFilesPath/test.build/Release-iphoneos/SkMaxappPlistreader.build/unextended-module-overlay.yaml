@@ -1,0 +1,14 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/BuildProductsPath/Release-iphoneos/SkMaxappPlistreader.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Build/Intermediates.noindex/ArchiveIntermediates/SkMaxappPlistreader/IntermediateBuildFilesPath/test.build/Release-iphoneos/SkMaxappPlistreader.build/unextended-module.modulemap",
+    }]
+  }]
+}

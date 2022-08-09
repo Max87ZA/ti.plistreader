@@ -1,0 +1,19 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: arm64 x86_64
+mac: false
+description: test
+author: Marian Kucharcik
+license: Specify your license
+copyright: Copyright (c) 2022 by Your Company
+
+# these should not be edited
+name: test
+moduleid: sk.maxapp.plistreader
+guid: 5c6265b5-4340-413a-8fa8-c2faa29e3192
+platform: iphone
+minsdk: 10.1.1.GA

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "eed15609e5de575a2ef598bed21e6a00b7b5417a5d68ffa237b3d8039a10ac4a"
+build_start_time: [1660026497, 425873041]
+build_end_time: [1660026498, 592187881]
+inputs:
+  "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Classes/SkMaxappPlistreaderExampleProxy.swift": [1660025659, 664442539]
+  "/Users/mariankucharcik/Developer/modules/Ti.Plistreader/test/ios/Classes/SkMaxappPlistreaderModule.swift": [1660026419, 280804634]

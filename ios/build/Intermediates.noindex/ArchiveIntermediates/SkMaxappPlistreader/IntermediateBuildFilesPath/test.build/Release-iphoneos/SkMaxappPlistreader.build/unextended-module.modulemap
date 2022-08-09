@@ -1,0 +1,10 @@
+framework module SkMaxappPlistreader {
+  umbrella header "SkMaxappPlistreader.h"
+
+  export *
+  module * { export * }
+}
+
+module SkMaxappPlistreader.__Swift {
+    exclude header "SkMaxappPlistreader-Swift.h"
+}

@@ -1,0 +1,42 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "SkMaxappPlistreader",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "TitaniumKit",
+      "printedName": "TitaniumKit",
+      "declKind": "Import",
+      "moduleName": "SkMaxappPlistreader"
+    },
+    {
+      "kind": "Import",
+      "name": "UIKit",
+      "printedName": "UIKit",
+      "declKind": "Import",
+      "moduleName": "SkMaxappPlistreader",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "TitaniumKit",
+      "printedName": "TitaniumKit",
+      "declKind": "Import",
+      "moduleName": "SkMaxappPlistreader"
+    }
+  ],
+  "json_format_version": 6
+}
